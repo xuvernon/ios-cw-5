@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         
-       
+        VStack{
         HStack{
       
         Image("download-1")
@@ -59,7 +59,7 @@ struct ContentView: View {
         }
        
         Spacer()
-       
+    }
            
     }
        
